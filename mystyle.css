@@ -1,0 +1,147 @@
+body {
+    background-color:#E0F7FA ;
+}
+.col >h1 {
+    color: #2196F3;
+    background-color: #90CAF9 ;
+    text-align:center;
+    text-shadow: 3px 5px rgb(98, 157, 212);  
+    font-size: 50px;
+    font-weight: bold;
+
+}
+.container .image>p {
+    color:rgb(98, 157, 212);
+    font-family: cursive;
+    font-size: 18px;
+}
+.image {
+    display: inline-flex;
+}
+.responsive {
+    width: 10%;
+    height: auto;
+  }
+  .navbar-light{
+      background-color: #90CAF9 !important;
+  }
+  .dropdown-item {
+      color: rgb(98, 157, 212);
+  }
+  .logo1 {
+      display: inline !important;
+      justify-content: left !important;
+  }
+  .carousel-inner img {
+    width: 100% ;
+    height: 10% !important ;
+  }
+  .nav-link {
+      color: white !important; 
+      font-weight: bold !important;
+  }
+  .navbar-brand>img {
+      width: auto;
+      height: 50px;
+  }
+  .footer {
+      color: white;
+      background-color: rgb(98, 157, 212);
+  }
+  .footer>h3 {
+      text-align: center;
+      text-decoration: underline;
+  }
+  .footer>p {
+      text-align: center;
+  }
+ .products >h2 {
+     color: rgb(98, 157, 212);
+     text-align: center;
+     text-decoration: underline;
+     text-shadow: 3px 3px  #2196F3 !important;
+ }
+.card-img-top {
+    height: 300px !important;
+}
+.card-body {
+    text-align: center;
+}
+.card-in {
+    display: flex;
+    justify-content: space-around;
+}
+.team {
+    color: rgb(98, 157, 212);
+    text-align: center;
+}
+a:hover {
+  background-color: rgb(98, 157, 212);
+}
+
+  marquee {
+      color: rgb(98, 157, 212);
+      font-weight: bold;
+  }
+
+   @media screen and (max-width: 600px) {
+    .card-in {
+      width: 100%;
+      display: block;
+      margin-bottom: 30px;
+    }
+  }
+  .img-responsive {
+      max-width: 100%;
+      height: auto;
+      display: block;
+  }
+  .terms>h4 {
+      color: rgb(98, 157, 212);
+      text-align: center;
+      font-style: italic;
+  }
+  form {
+    background-color: white;
+    border-style: solid;
+    color: rgb(98, 157, 212);
+    border: none;
+}
+.cart>h2 {
+    color: #2196F3;
+    text-align: inherit;
+}
+.btn-info {
+    color: white;
+    background-color: rgb(98, 157, 212);
+}
+.cart>h2 {
+color: #2196F3;
+font-weight: bold;
+}
+.cart1{
+    background-color: white;
+}
+.cart1>h1 {
+    color: rgb(98, 157, 212);
+    text-align: center;
+}
+.cart1> h4 {
+    color:  rgb(98, 157, 212);
+    font-weight: bold;
+    text-align: center;
+}
+
+.responsive2 {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin: 10px auto 20px;
+    display: block;
+  }
+  .cart1> img {
+      text-align: center;
+  }
+ 
+
+
